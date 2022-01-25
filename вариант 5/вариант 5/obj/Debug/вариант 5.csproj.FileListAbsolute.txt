@@ -1,0 +1,15 @@
+C:\Users\Пользователь\source\repos\вариант 5\вариант 5\bin\Debug\вариант 5.exe.config
+C:\Users\Пользователь\source\repos\вариант 5\вариант 5\bin\Debug\вариант 5.exe
+C:\Users\Пользователь\source\repos\вариант 5\вариант 5\bin\Debug\вариант 5.pdb
+C:\Users\Пользователь\source\repos\вариант 5\вариант 5\obj\Debug\вариант 5.csprojAssemblyReference.cache
+C:\Users\Пользователь\source\repos\вариант 5\вариант 5\obj\Debug\MainWindow.g.cs
+C:\Users\Пользователь\source\repos\вариант 5\вариант 5\obj\Debug\App.g.cs
+C:\Users\Пользователь\source\repos\вариант 5\вариант 5\obj\Debug\вариант 5_MarkupCompile.cache
+C:\Users\Пользователь\source\repos\вариант 5\вариант 5\obj\Debug\вариант 5_MarkupCompile.lref
+C:\Users\Пользователь\source\repos\вариант 5\вариант 5\obj\Debug\MainWindow.baml
+C:\Users\Пользователь\source\repos\вариант 5\вариант 5\obj\Debug\вариант 5.g.resources
+C:\Users\Пользователь\source\repos\вариант 5\вариант 5\obj\Debug\вариант_5.Properties.Resources.resources
+C:\Users\Пользователь\source\repos\вариант 5\вариант 5\obj\Debug\вариант 5.csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\вариант 5\вариант 5\obj\Debug\вариант 5.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\вариант 5\вариант 5\obj\Debug\вариант 5.exe
+C:\Users\Пользователь\source\repos\вариант 5\вариант 5\obj\Debug\вариант 5.pdb
