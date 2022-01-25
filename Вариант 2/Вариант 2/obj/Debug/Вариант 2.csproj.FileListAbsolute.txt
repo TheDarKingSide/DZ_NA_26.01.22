@@ -1,0 +1,14 @@
+C:\Users\Пользователь\source\repos\Вариант 2\Вариант 2\bin\Debug\Вариант 2.exe.config
+C:\Users\Пользователь\source\repos\Вариант 2\Вариант 2\bin\Debug\Вариант 2.exe
+C:\Users\Пользователь\source\repos\Вариант 2\Вариант 2\bin\Debug\Вариант 2.pdb
+C:\Users\Пользователь\source\repos\Вариант 2\Вариант 2\obj\Debug\MainWindow.g.cs
+C:\Users\Пользователь\source\repos\Вариант 2\Вариант 2\obj\Debug\App.g.cs
+C:\Users\Пользователь\source\repos\Вариант 2\Вариант 2\obj\Debug\Вариант 2_MarkupCompile.cache
+C:\Users\Пользователь\source\repos\Вариант 2\Вариант 2\obj\Debug\Вариант 2_MarkupCompile.lref
+C:\Users\Пользователь\source\repos\Вариант 2\Вариант 2\obj\Debug\MainWindow.baml
+C:\Users\Пользователь\source\repos\Вариант 2\Вариант 2\obj\Debug\Вариант 2.g.resources
+C:\Users\Пользователь\source\repos\Вариант 2\Вариант 2\obj\Debug\Вариант_2.Properties.Resources.resources
+C:\Users\Пользователь\source\repos\Вариант 2\Вариант 2\obj\Debug\Вариант 2.csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\Вариант 2\Вариант 2\obj\Debug\Вариант 2.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\Вариант 2\Вариант 2\obj\Debug\Вариант 2.exe
+C:\Users\Пользователь\source\repos\Вариант 2\Вариант 2\obj\Debug\Вариант 2.pdb

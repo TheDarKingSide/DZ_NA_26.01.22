@@ -1,0 +1,15 @@
+C:\Users\Пользователь\source\repos\Вариант 3\Вариант 3\bin\Debug\Вариант 3.exe.config
+C:\Users\Пользователь\source\repos\Вариант 3\Вариант 3\bin\Debug\Вариант 3.exe
+C:\Users\Пользователь\source\repos\Вариант 3\Вариант 3\bin\Debug\Вариант 3.pdb
+C:\Users\Пользователь\source\repos\Вариант 3\Вариант 3\obj\Debug\Вариант 3.csprojAssemblyReference.cache
+C:\Users\Пользователь\source\repos\Вариант 3\Вариант 3\obj\Debug\MainWindow.g.cs
+C:\Users\Пользователь\source\repos\Вариант 3\Вариант 3\obj\Debug\App.g.cs
+C:\Users\Пользователь\source\repos\Вариант 3\Вариант 3\obj\Debug\Вариант 3_MarkupCompile.cache
+C:\Users\Пользователь\source\repos\Вариант 3\Вариант 3\obj\Debug\Вариант 3_MarkupCompile.lref
+C:\Users\Пользователь\source\repos\Вариант 3\Вариант 3\obj\Debug\MainWindow.baml
+C:\Users\Пользователь\source\repos\Вариант 3\Вариант 3\obj\Debug\Вариант 3.g.resources
+C:\Users\Пользователь\source\repos\Вариант 3\Вариант 3\obj\Debug\Вариант_3.Properties.Resources.resources
+C:\Users\Пользователь\source\repos\Вариант 3\Вариант 3\obj\Debug\Вариант 3.csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\Вариант 3\Вариант 3\obj\Debug\Вариант 3.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\Вариант 3\Вариант 3\obj\Debug\Вариант 3.exe
+C:\Users\Пользователь\source\repos\Вариант 3\Вариант 3\obj\Debug\Вариант 3.pdb
